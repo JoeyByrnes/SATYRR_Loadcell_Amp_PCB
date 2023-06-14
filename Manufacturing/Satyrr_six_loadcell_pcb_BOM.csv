@@ -1,0 +1,16 @@
+Qty , Value                          , Package                   , Parts                                       , Links
+9, 0R                             , R0603                     , R4  R5  R6  R12  R13  R14  R18  R19  R20    , https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603ZT0R00/1756908
+10, 0.1uF                          , C0603                     , C1  C2  C10  C11  C12  C13  C3  C4  C5  C6  , https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNWC/3887593
+2, 10uF                           , C0603                     , C8  C9                                      , https://www.digikey.com/en/products/detail/taiyo-yuden/LMK107BBJ106MALT/3662195
+1, 125SH-G-03-TR-SMT              , 125SH-G-03-TR-SMT         , U$2                                         , https://www.digikey.com/en/products/detail/adam-tech/125SH-G-03-TR-SMT-T-R/10414814?s=N4IgTCBcDaIIxgKwGUASBaA4ugDAZnQBUAldZAWUJAF0BfIA 
+1,22057025, CON_22057025_MOL          , J9                                          , https://www.digikey.com/en/products/detail/molex/0022057025/403341?s=N4IgTCBcDa5gDAVgOzzIkBdAvkA
+2, 22R                            , R0603                     , R7  R8                                      , https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0603J22R/8576683
+1, 4.7uF                          , C0603                     , C7                                          , https://www.digikey.com/en/products/detail/taiyo-yuden/LMK107BJ475KAHT/4157765
+9, 47R                            , R0603                     , R1  R2  R3  R9  R10  R11  R15  R16  R17     , https://www.digikey.com/en/products/detail/walsin-technology-corporation/WR06X470-JTL/13241762
+3, ADS1220                        , TSSOP-16                  , U$1  U$3  U$4                               , https://www.mouser.com/ProductDetail/Texas-Instruments/ADS1220IPW?qs=5GI1giJCN%252BKzuruuF2dUlQ%3D%3D
+1, AP7361C-33Y5-13SOT89-5_DIO-M   , SOT89-5_DIO-M             , U2                                          , https://www.digikey.com/en/products/detail/diodes-incorporated/AP7361C-33Y5-13/5638323?s=N4IgTCBcDaIIIAUDsBmAbARgMIFoUoE0BWEAXQF8g
+1, ECS-80-18-33-JGN-TR            , XTAL_ECS-240-8-33-AGN-TR  , Y1                                          , https://www.digikey.com/en/products/detail/ecs-inc/ECS-80-18-33-JGN-TR/10478755
+1, MCP2562FD-H/MFDFN8_3X3MC_MCH-M , DFN8_3X3MC_MCH-M          , U1                                          , https://www.newark.com/microchip/mcp2562fd-h-sn/can-transceiver-8mbps-40-to-150deg/dp/72AC6153?CMP=AFC-OP
+1, SM02BGHSTBLFSN                 , CONN_SM02BGHSTB_JST       , J2                                          , https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM02B-GHS-TB-LF-SN/807786?s=N4IgTCBcDaIMoFkAMYBCBaA4gCTugKqgBQAyAYgJRFwByFIAugL5A
+6, SM04B-GHS-TB(LF)(SN)-          , JST_SM04B-GHS-TB(LF)(SN)- , J3  J4  J5  J6  J7  J8                      , https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-GHS-TB-LF-SN/807788?s=N4IgTCBcDaIMoFkAMAWAQgWgOIAk4YBU0AKAGQDEBKYuAOUpAF0BfIA
+1, STM32G431KBU6                  , QFN50P500X500X60-33N      , IC1                                         , https://www.digikey.com/en/products/detail/stmicroelectronics/STM32G431KBU6/10231568?s=N4IgTCBcDaIMoBUCyBmMBxALCgjAaQCEBVANhAF0BfIA

@@ -53,7 +53,7 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
@@ -188,10 +188,10 @@
 <board>
 <fusionsync huburn="a.cGVyc29uYWw6dWUyYjk3YjY2" projecturn="a.cGVyc29uYWw6dWUyYjk3YjY2I0QyMDE3MDQyMTcyOTEwMDU2" f3durn="urn:adsk.wipprod:dm.lineage:x1Hp-rxAQdmxZuw10dmMeQ" pcbguid="" lastpulledtime="2023-06-13T00:59:07Z" lastsyncedchangeguid="" latestrevisionid="01d1e72b-9c06-4995-ae3d-8c399f20e909" lastsyncedrevisionid="01d1e72b-9c06-4995-ae3d-8c399f20e909" lastboardhashguid="794fe755-0ac9-9bfc-7661-68ce78da8e76" lastpushedtime="2023-06-13T01:05:14Z" linktopcb3d="true"/>
 <plain>
-<circle x="33" y="73" radius="2.75" width="0.1524" layer="21"/>
-<circle x="33" y="3" radius="2.75" width="0.1524" layer="21"/>
-<circle x="3" y="3" radius="2.75" width="0.1524" layer="21"/>
-<circle x="3" y="73" radius="2.75" width="0.1524" layer="21"/>
+<circle x="33" y="73" radius="3" width="0.1524" layer="21"/>
+<circle x="33" y="3" radius="3" width="0.1524" layer="21"/>
+<circle x="3" y="3" radius="3" width="0.1524" layer="21"/>
+<circle x="3" y="73" radius="3" width="0.1524" layer="21"/>
 <rectangle x1="17.67645" y1="3.91775" x2="18.28605" y2="3.93045" layer="21"/>
 <rectangle x1="17.66375" y1="3.93045" x2="18.29875" y2="3.94315" layer="21"/>
 <rectangle x1="17.66375" y1="3.94315" x2="18.29875" y2="3.95585" layer="21"/>
@@ -1454,10 +1454,10 @@ AGND</text>
 AIN2
 AVDD
 AGND</text>
-<hole x="33" y="3" drill="3"/>
-<hole x="3" y="3" drill="3"/>
-<hole x="33" y="73" drill="3"/>
-<hole x="3" y="73" drill="3"/>
+<hole x="33" y="3" drill="3.2"/>
+<hole x="3" y="3" drill="3.2"/>
+<hole x="33" y="73" drill="3.2"/>
+<hole x="3" y="73" drill="3.2"/>
 <wire x1="0" y1="73" x2="0" y2="3" width="0" layer="20"/>
 <wire x1="0" y1="3" x2="3" y2="0" width="0" layer="20" curve="90.0001"/>
 <wire x1="3" y1="0" x2="33" y2="0" width="0" layer="20"/>

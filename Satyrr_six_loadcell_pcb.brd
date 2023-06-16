@@ -1347,8 +1347,8 @@ RX
 TX
 IO6</text>
 <text x="10.98" y="18.07" size="1" layer="21" ratio="12" distance="155" rot="R90" align="center">GND</text>
-<wire x1="11" y1="20" x2="11" y2="29" width="0.2032" layer="21"/>
-<wire x1="11" y1="29" x2="10" y2="29" width="0.2032" layer="21"/>
+<wire x1="11" y1="20" x2="11.02" y2="24.19" width="0.2032" layer="21"/>
+<wire x1="11.02" y1="24.19" x2="10.02" y2="24.19" width="0.2032" layer="21"/>
 <wire x1="11" y1="16" x2="11" y2="7" width="0.2032" layer="21"/>
 <wire x1="11" y1="7" x2="10" y2="7" width="0.2032" layer="21"/>
 <text x="9.62" y="52.01" size="1" layer="21" ratio="12" distance="155" align="center-left">5v
@@ -1417,8 +1417,8 @@ RX
 TX
 IO6</text>
 <text x="11.02" y="18.07" size="1" layer="22" ratio="12" distance="155" rot="MR90" align="center">GND</text>
-<wire x1="11" y1="20" x2="11" y2="29" width="0.2032" layer="22"/>
-<wire x1="10" y1="29" x2="11" y2="29" width="0.2032" layer="22"/>
+<wire x1="11" y1="20" x2="11" y2="24.19" width="0.2032" layer="22"/>
+<wire x1="10" y1="24.19" x2="11" y2="24.19" width="0.2032" layer="22"/>
 <wire x1="10" y1="7" x2="11" y2="7" width="0.2032" layer="22"/>
 <wire x1="11" y1="16" x2="11" y2="7" width="0.2032" layer="22"/>
 <text x="1.99" y="52.01" size="1" layer="22" ratio="12" distance="155" rot="MR90" align="center">GND</text>
@@ -1470,6 +1470,10 @@ AGND</text>
 <wire x1="3" y1="76" x2="2.7385" y2="75.9886" width="0" layer="20"/>
 <wire x1="2.7385" y1="75.9886" x2="0" y2="73" width="0" layer="20" curve="85.0001"/>
 <text x="20.08" y="68.96" size="0.6" layer="21">U$2</text>
+<text x="10.18" y="27" size="1" layer="21" ratio="12" distance="155" align="center-left">3v3
+3v3</text>
+<text x="10.18" y="27" size="1" layer="22" ratio="12" distance="155" rot="MR0" align="center-right">3v3
+3v3</text>
 </plain>
 <libraries>
 <library name="circuitects">

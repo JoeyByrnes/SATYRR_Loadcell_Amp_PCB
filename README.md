@@ -1,4 +1,4 @@
-# Loadcell_CAN_Interface_PCB
+# SATYRR Loadcell Amplifier PCB
 Loadcell Amplifiers for RoboDesign Lab SATYRR Wheeled-Humanoid robot
 
 

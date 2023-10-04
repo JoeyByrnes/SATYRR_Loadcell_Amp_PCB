@@ -1,0 +1,8 @@
+../Core/Src/alt_main.cpp:27:9:uint8_t ADS1220_Transfer(uint8_t)	32	static
+../Core/Src/alt_main.cpp:34:5:int alt_main()	16	static
+../Core/Src/alt_main.cpp:87:9:int32_t divideAndExtract20Bits(int32_t)	24	static
+../Core/Src/alt_main.cpp:95:6:void splitDataIntoCANPackets(uint32_t*, uint8_t*, uint8_t*)	24	static
+../Core/Src/alt_main.cpp:121:7:float convertToMilliV(int32_t)	16	static
+../Core/Src/alt_main.cpp:128:6:void main_1KHz_interrupt()	208	static
+../Core/Src/alt_main.cpp:293:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/alt_main.cpp:293:1:cpp)	8	static
